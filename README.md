@@ -65,7 +65,5 @@ I’m a passionate and versatile developer who loves building real-world product
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shouryamittal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:shouryamittal123@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-  <a href="https://shouryamittal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel"></a>
 </p>
